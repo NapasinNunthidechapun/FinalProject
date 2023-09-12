@@ -1025,7 +1025,7 @@ namespace Project_test_2.Scenes
             if (win == true && dayCount == 10)
             {
                 spriteBatch.DrawString(font, "You Win!!", new Vector2(1000, 200), Color.Black);
-                gameOver =true;
+                gameOver =true;//Quaso
             }
             if (win == false && dayCount == 10)
             {
