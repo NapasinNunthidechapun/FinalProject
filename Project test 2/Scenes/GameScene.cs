@@ -18,6 +18,8 @@ namespace Project_test_2.Scenes
     internal class GameScene : Component
     {
 
+        //Napasin Test
+
         GraphicsDeviceManager graphics;
 
         private Texture2D sumarizeWindow;
