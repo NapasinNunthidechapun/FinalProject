@@ -26,7 +26,7 @@ namespace Project_test_2.Scenes
         private Texture2D btnNextDay;
         private Texture2D btnYes;
         private Texture2D btnNo;
-
+        //Paritchayanon Hi :)
         private Rectangle btnStartRect = new Rectangle();
 
         private MouseState ms, oldMs;
